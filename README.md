@@ -1,2 +1,2 @@
 # heng94.github.io
-theme: Cayman
+theme: cayman
